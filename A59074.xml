@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sejanus, or, The popular favourite, now in his solitude, and sufferings written for the consolation of E.S. the famous Bromigen Protestant, in bonds, and imprisonment, for the good old cause, and the truths sake / by Timothy Tory.</title>
+            <author>Tory, Timothy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59074</idno>
+            <idno type="STC">Wing S2419</idno>
+            <idno type="STC">ESTC R14643</idno>
+            <idno type="EEBO-CITATION">13142561</idno>
+            <idno type="OCLC">ocm 13142561</idno>
+            <idno type="VID">98003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sejanus, or, The popular favourite, now in his solitude, and sufferings written for the consolation of E.S. the famous Bromigen Protestant, in bonds, and imprisonment, for the good old cause, and the truths sake / by Timothy Tory.</title>
+                  <author>Tory, Timothy.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Smith, Curtiss, Janeway, Baldwin, all true-Protestant-booksellers, near the sign of the three-legg'd-brand-iron, call'd Tyburn,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>E.S. in title refers to Anthony Ashley Cooper, Earl of Shaftsbury.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:98003:1" rendition="simple:additions"/>
+            <head>SEJANUS: OR THE Popular Favourite, Now in his Solitude, and Sufferings.</head>
+            <head type="sub">Written for the Conſolation of <hi>E. S.</hi> the Famous <hi>Bromigen Proteſtant,</hi> in Bonds, and Impriſonment, for the <hi>Good Old Cauſe,</hi> and the Truths ſake.</head>
+            <byline>By <hi>TIMOTHY TORY.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <l>— Facit indignatio verſus.</l>
+                  <l>Difficile eſt hîc Satyram non ſcribere.</l>
+                  <bibl>
+                     <hi>Juv.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>IS this thy Glory now? is this thy Pride,</l>
+               <l>Of ſticking to the Saints, and Godly ſide?</l>
+               <l>Religious Bugbear words that fright from hence,</l>
+               <l>From Subject, all their Loyalty to Prince,</l>
+               <l>Make black Rebellion, ſeem white Innocence;</l>
+               <l>Entitle Heaven, to the vileſt Crimes,</l>
+               <l>Make Deity, like Rabble, blame the Times.</l>
+               <l>Mad Zealots! ſo Atheiſtically civil,</l>
+               <l>Blaſpheme the Gods, to Complement the Devil.</l>
+               <l>The mightieſt of theſe inſpir'd Saints, is come</l>
+               <l>To Crown himſelf with fancied Martyrdom:</l>
+               <l>
+                  <hi>Geneva</hi> Whig, that ſtill crys out at <hi>Rome,</hi>
+               </l>
+               <l>But raiſes ſtill Domeſtick Broils at home.</l>
+               <l>How quietly Great <hi>Charles</hi> might end his Reign,</l>
+               <l>Which all in Troubles the poor Prince began,</l>
+               <l>Now vext by Ghoſt, meer ſhadow of a Man:</l>
+               <l>The cunning Hypocrite, that ſtill can ſpy</l>
+               <l>The ſmalleſt Mote in his kind Prince's eye,</l>
+               <l>By Zeal, and Nature, made ſo double blind,</l>
+               <l>That in his own the Beam he cannot find:</l>
+               <l>Some ſay but one vaſt Luminary ſtands</l>
+               <l>In's furrow'd brow, and watches all the Land;</l>
+               <l>But ſunk into its hole, crept out of ſight,</l>
+               <l>As if it were afraid to ſee the Light,</l>
+               <l>His Skull's too narrow Circle can't contain</l>
+               <l>His Tow'ring thought, and vaſt Gygantick brain;</l>
+               <pb n="2" facs="tcp:98003:2"/>
+               <l>Blinded again with hopes of Reformation,</l>
+               <l>Poor little <hi>Polyphemus</hi> of the Nation;</l>
+               <l>That mighty Monſter brav'd the riſing Floud,</l>
+               <l>And this can wade through a whole Sea of Bloud.</l>
+               <l>How hath this wretched Iſle been chang'd, and curſt,</l>
+               <l>Since thou wert born, and ſince it knew thee firſt!</l>
+               <l>How did its Tributary Rivers pay</l>
+               <l>A bloudy, dreadful Homage to the Sea!</l>
+               <l>Whilſt on the Purpl'd Ocean thou didſt ride,</l>
+               <l>And Tack about ſtill with the Wind and Tide:</l>
+               <l>This floating Bark, he now again would Steer,</l>
+               <l>Ah! treacherous Pilot, and falſe Mariner;</l>
+               <l>The Kingdom's yet ſcarce mended Hulk to ſave,</l>
+               <l>Would launch again into the Purple wave:</l>
+               <l>Religious Bully! that can cheat a Nation,</l>
+               <l>And make it periſh, working out Salvation.</l>
+               <l>Three Kingdoms he o'relooks, and ſoon can count</l>
+               <l>The <hi>Tories</hi> all, from <hi>Barwick,</hi> to the <hi>Mount:</hi>
+               </l>
+               <l>Sifts Cities, Shires, to find what each afford;</l>
+               <l>Calls this <hi>Tantivy,</hi> that <hi>Protesting Lord:</hi>
+               </l>
+               <l>Sees what grave Noddle's for Caballing fit,</l>
+               <l>And who are <hi>Bromigens</hi> of Senſe and Wit.</l>
+               <l>Theſe are the Faculties of Soul and Mind,</l>
+               <l>And here his Body as compleat you find;</l>
+               <l>From's liquid Corp, diſtills a fleeting gore,</l>
+               <l>And the whole Carcaſs, makes one putrid Sore.</l>
+               <l>The better to emit this flowing Sap,</l>
+               <l>His Belly carries ſtill a Silver Tap,</l>
+               <l>Through which black Treaſon, all its Dregs doth ſtrein</l>
+               <l>At once, both Excrements, of Guts, and Brain;</l>
+               <l>But ſome will have his clear, thin Body paſs,</l>
+               <l>For a refined ſort of Optick-glaſs:</l>
+               <l>Some make the poliſht Fabrick of his Bone</l>
+               <l>A glittering Skeleton of Specular Stone.</l>
+               <l>Old <hi>Ovid</hi>'s Muſe from hence may take her flights,</l>
+               <l>Her <hi>Argus</hi> only had an hundred ſights;</l>
+               <l>This little Monſtrous Corps, is Eye all o're,</l>
+               <l>And the whole Body ſees at every Pore;</l>
+               <l>Sees hatching Thought, meet Embrio of a Plot,</l>
+               <l>Nay ſees it oft before it be begot.</l>
+               <l>But to ſay truth, his Opticks are but two,</l>
+               <l>Yet more than <hi>Ovid</hi>'s Centinel can do</l>
+               <l>With hundred Eyes, that many things could view;</l>
+               <l>But this ſees many hundred ways with two:</l>
+               <l>So quick, ſo nimble, and ſuch rolling Eyes,</l>
+               <l>They watch each other, like two cunning Spies,</l>
+               <l>Leſt this declare for King, and that for People,</l>
+               <l>For <note n="*" place="margin">The Citizens have made a great clutter of late about their Monument, as if their Inſcriptions there would keep out Po<g ref="char:EOLhyphen"/>pery better than all the Writings of the Churchmen.</note> Cities Pyramid, or Churches Steeple.</l>
+               <l>Poor turning, winding, weathercock of State,</l>
+               <l>Set on the doubtful Pinacle of Fate,</l>
+               <l>And now will turn again, if not too late.</l>
+               <pb n="3" facs="tcp:98003:2"/>
+               <l>If well corrected for his Inſolence,</l>
+               <l>The little Spaniel fawns upon his Prince;</l>
+               <l>But once eſcap'd the Ax, or fatal Loops,</l>
+               <l>Straight to the dull unthinking Rabble ſtoops,</l>
+               <l>Pufft up with the vain blaſt of Vulgar breath,</l>
+               <l>Thus ſmall State-Urchins hurry to their death:</l>
+               <l>So the kind Air with an officious blaſt,</l>
+               <l>Toſſes poor Bubbles, to the Clouds, at laſt;</l>
+               <l>Dances the little Globe about the Skie,</l>
+               <l>Then breaks the glittering Ball it fann'd ſo high.</l>
+               <l>So <hi>Romes</hi> fam'd <note n="*" place="margin">Sejanus.</note> Darling once that govern'd all,</l>
+               <l>With the inconſtant Rout did ſtand or fall;</l>
+               <l>Th' obliged Camp, their General did crown,</l>
+               <l>Then dragg'd his ragged Carcaſs through the Town.</l>
+               <l>Weak Fools! that think they may ſecurely flee</l>
+               <l>On the looſe wings of wild Inconſtancy,</l>
+               <l>Or on its Metaphor, the <hi>Mobile.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Diguſted by the Rout, this cunning Wight</l>
+               <l>Runs cringeing to his injur'd Monarch ſtraight,</l>
+               <l>Whoſe goodneſs is too ready to forgive,</l>
+               <l>Faulty alone in ſuffering him to live.</l>
+               <l>Advanc'd to follow Mace, and wear a Gown,</l>
+               <l>The <hi>Tony</hi> then ſaw <hi>Mutineers</hi> in Town,</l>
+               <l>But now they all <hi>True Protestants</hi> are grown.</l>
+               <l>Whilſt he unto its Chambers can reſort,</l>
+               <l>There's nought, alas, of <hi>Popery</hi> at Court;</l>
+               <l>Clap the Prophetick Soul but in the <hi>Tow'r,</hi>
+               </l>
+               <l>It ſtraight Divines of <hi>Arbitrary Pow'r.</hi>
+               </l>
+               <l>Now leaves the Rout, and then as ſoon as able,</l>
+               <l>Leaves his good Prince, juſt as he left the Rabble.</l>
+               <l>Who e're before ſaw ſuch a Little thing</l>
+               <l>Contend with Monarch, grapple with a King!</l>
+               <l>Of Giants oft we read, that fought the Skies,</l>
+               <l>Cufft back the Thunder of the Deities;</l>
+               <l>But ne're of Pigmy Lord that did the ſame,</l>
+               <l>A Lord that's only fit to fight with Crane.</l>
+               <l>
+                  <note n="*" place="margin">The Green-Ribband Club deſcrib'd, of which he is made the Head.</note> This buſie Noddle of the Factious Crew,</l>
+               <l>Not now diſtinguiſh'd by th' old Northern Blew,</l>
+               <l>(The Badge of upſtart Whigs muſt ſtill be new)</l>
+               <l>With his Green bob in this new Senate ſits,</l>
+               <l>And round him all thoſe Liv'ry-men of wits;</l>
+               <l>Some raze a name, and ſome inſert a clauſe,</l>
+               <l>Order their Bills themſelves, and Vote them Laws:</l>
+               <l>With awful care ſome Scriblers penning be</l>
+               <l>A Speech for <note n="*" place="margin">Reported ſpoken by <hi>E. S.</hi>
+                  </note> 
+                  <hi>Sister Scotlands Liberty,</hi>
+               </l>
+               <l>'Gainſt <hi>L—dale's</hi> unbounded Tyranny.</l>
+               <l>There a young Scribe is copying out a Cant,</l>
+               <l>Next morn for to be ſpoke in Parliament:</l>
+               <l>Upſtarts an Hector, ſwears upon a Book,</l>
+               <l>
+                  <note n="*" place="margin">The Oath common to one of the Club.</note> 
+                  <hi>Gad you ſhall ſee we will exclude the Duke.</hi>
+               </l>
+               <pb n="4" facs="tcp:98003:3"/>
+               <l>This brings a Bill 'gainſt <hi>Arbitrary Power,</hi>
+               </l>
+               <l>And that will ſend a Member to the <hi>Tower;</hi>
+               </l>
+               <l>One Votes him to be <hi>Cenſur'd on his Knees,</hi>
+               </l>
+               <l>This cries <hi>Diſcharge,</hi> that <hi>Let him pay his Fees:</hi>
+               </l>
+               <l>And in the little Club you fairly ſee,</l>
+               <l>Of the Great Senate an Epitome.</l>
+               <l>But now the Mouth of this <hi>Young Rump</hi> is gone,</l>
+               <l>The diſſolv'd Members ſcatter in the Town;</l>
+               <l>Poor <hi>Tony</hi>'s now confin'd, and like to write</l>
+               <l>All that fierce Indignation can indite;</l>
+               <l>His ſecond Volume quickly will appear,</l>
+               <l>The <note n="*" place="margin">He writ a Pamphlet when laſt there.</note> 
+                  <hi>Tower</hi> alway made him Scribler.</l>
+            </lg>
+            <lg>
+               <l>As we below on ſome bright Meteor gaze,</l>
+               <l>Poor Panick Fools, admire a Little blaze,</l>
+               <l>Which once dropt down, regardleſs we paſs by,</l>
+               <l>As too vile object for our ſcornful Eye.</l>
+               <l>The gazing Croud thus him in Luſtre view,</l>
+               <l>Careſs, admire, and adore him too;</l>
+               <l>But once Eclips'd, or ſhaded in a Cloud,</l>
+               <l>Away runs all the ſilly buzzing Croud.</l>
+               <l>All thy paſt ſhifts will ſerve thee now no more,</l>
+               <l>Or there is ſcarce another left in ſtore:</l>
+               <l>The Tempter his old Sore'reſs doth forſake,</l>
+               <l>When once h' hath brought the wither'd Hag to Stake:</l>
+               <l>When the glib <note n="*" place="margin">
+                     <hi>Proteus</hi> taken by <hi>Ariſtaeus.</hi>
+                  </note> changing Monſter once was ta'ne,</l>
+               <l>And fetter'd in the cunning Shepherds chain,</l>
+               <l>With all its wiles he never could eſcape,</l>
+               <l>Though chang'd to Fiſh, to Dragon, and to Ape,</l>
+               <l>And every minute put on other ſhape.</l>
+            </lg>
+            <lg>
+               <l>Our ſad diſtracted <hi>Albion</hi> gaz'd around,</l>
+               <l>She ſaw no Foe, but ſtill ſhe felt a wound:</l>
+               <l>The bleeding Deer thus trembling ſtands at Bay,</l>
+               <l>But can't find where the cloſe hid Archer lay.</l>
+               <l>As on the winding Banks, and watry Maze,</l>
+               <l>Where fam'd <hi>Meander</hi> cuts his crooked ways,</l>
+               <l>The loſt, confounded Traveller doth gaze,</l>
+               <l>At laſt kind Fate, or Providence doth bring</l>
+               <l>The poor deſpairing Soul unto the Spring:</l>
+               <l>So ſome kind Angel, <hi>Genius</hi> of this Iſle,</l>
+               <l>Where Peace, alas! with thee could never ſmile,</l>
+               <l>Hath taught us now to make her flouriſh ſtill,</l>
+               <l>Shewn us the hidden <hi>Source</hi> of all her Ill.</l>
+               <l>
+                  <hi>Reaſon</hi> the <hi>Plummet, Wit</hi> the <hi>Line</hi> ſhall be,</l>
+               <l>Both ſtretcht to <hi>fathom,</hi> and to <hi>meaſure</hi> thee:</l>
+               <l>Lead through the Labyrinth of all thy Tricks,</l>
+               <l>All the wild <hi>Mazes</hi> of thy <hi>Politicks.</hi>
+               </l>
+               <trailer>FINIS.</trailer>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: Printed for <hi>Smith, Curtiſs, Janeway, Baldwin,</hi> all True-Ptoteſtant-Bookſellers, near the ſign of the Three-Legg'd Brand-Iron, call'd <hi>Tyburn.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
